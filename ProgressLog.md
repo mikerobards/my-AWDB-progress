@@ -4,4 +4,4 @@
 
 **Thoughts**: It's good to be back with Colt. I really like his learning style! I am learning a lot, and am eager to test out these skills on some real projects! CodePen boo.
 
-**Link(s) to work**: [CSS Animations](https://codepen.io/mikerobards/pen/jadjGq)
+**Link(s) to work**: [CSS Animations](#https://codepen.io/mikerobards/pen/jadjGq)
