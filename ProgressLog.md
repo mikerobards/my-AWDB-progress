@@ -13,3 +13,11 @@
 **Thoughts**: Good! Forgot to update log yesterday due to sleep dep. 
 
 **Link(s) to work**: [Animated Gallery](https://codepen.io/mikerobards/pen/yPwgKV)
+
+### Day 3: December 5, 2017 
+
+**Today's Progress**: Started Section 3: CSS Animations: Keyframes.
+
+**Thoughts**: Up to Keyframe Sun exercise.
+
+**Link(s) to work**: [Keyframe Sun](https://codepen.io/mikerobards/pen/RjOaqL/)
