@@ -18,6 +18,6 @@
 
 **Today's Progress**: Started Section 3: CSS Animations: Keyframes.
 
-**Thoughts**: Up to Keyframe Sun exercise.
+**Thoughts**: Finished Keyframe Sun exercise. Will watch solution video tomorrow.
 
-**Link(s) to work**: [Keyframe Sun](https://codepen.io/mikerobards/pen/RjOaqL/)
+**Link(s) to work**: [Keyframe Sun](https://codepen.io/mikerobards/pen/RjOaqL)
