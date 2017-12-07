@@ -21,3 +21,20 @@
 **Thoughts**: Finished Keyframe Sun exercise. Will watch solution video tomorrow.
 
 **Link(s) to work**: [Keyframe Sun](https://codepen.io/mikerobards/pen/RjOaqL)
+
+### Day 4: December 6, 2017 
+
+**Today's Progress**: Worked on Section 3: CSS Animations: Keyframes.
+
+**Thoughts**: Watched solution video. Got it pretty good! Path meh. But answered the user stories accurately!
+
+**Link(s) to work**: [Keyframe Sun](https://codepen.io/mikerobards/pen/RjOaqL)
+
+### Day 5: December 7, 2017 
+
+**Today's Progress**: Finished Section 3: CSS Animations: Keyframes.
+
+**Thoughts**: Done with Section 3. Onward!
+
+**Link(s) to work**: [My AWDB Loader](https://codepen.io/mikerobards/full/jajNop/)
+
