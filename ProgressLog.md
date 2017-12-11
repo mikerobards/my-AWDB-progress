@@ -38,3 +38,13 @@
 
 **Link(s) to work**: [My AWDB Loader](https://codepen.io/mikerobards/full/jajNop/)
 
+### Day 5: December 10, 2017 
+
+**Today's Progress**: Started Section 4: Advanced CSS: Layout With Flexbox.
+
+**Thoughts**: Flexbox seems way easier than Bootstrap grid. Finished Flexbox Froggy game. 
+
+**Link(s) to work**: [My Flexbox Side Nav](https://codepen.io/mikerobards/pen/XzvvaK)
+
+
+
