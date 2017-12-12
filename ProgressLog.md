@@ -54,6 +54,15 @@
 
 **Link(s) to work**: [Flexbox Nav](https://codepen.io/mikerobards/full/KZPZKJ/)
 
+### Day 8: December 12, 2017 
+
+**Today's Progress**: Finished Section 4: Advanced CSS: Layout With Flexbox.
+
+**Thoughts**: Okay enough Flexbox!
+
+**Link(s) to work**: [Flexbox Holy Grail Layout](https://codepen.io/mikerobards/full/GyRKre/)
+
+
 
 
 
