@@ -56,9 +56,9 @@
 
 ### Day 8: December 12, 2017 
 
-**Today's Progress**: Finished Section 4: Advanced CSS: Layout With Flexbox.
+**Today's Progress**: Finished Section 4: Advanced CSS: Layout With Flexbox. Started Section 5. Project!
 
-**Thoughts**: Okay enough Flexbox!
+**Thoughts**: Okay enough Flexbox! Happy with my Holy Grail Layout. A project! A new instructor, and we are building a webpage. He codes fast! 
 
 **Link(s) to work**: [Flexbox Holy Grail Layout](https://codepen.io/mikerobards/full/GyRKre/)
 
