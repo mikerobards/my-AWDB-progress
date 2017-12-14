@@ -62,6 +62,16 @@
 
 **Link(s) to work**: [Flexbox Holy Grail Layout](https://codepen.io/mikerobards/full/GyRKre/)
 
+### Day 9: December 13, 2017 
+
+**Today's Progress**: Finished Section 5: Project: Building a Startup Site.
+
+**Thoughts**: Code along with Matt. He goes through the code pretty fast. A lot of CSS. But learned real world applications of flexbox, so that is good.  
+
+**Link(s) to work**: [none](#)
+
+
+
 
 
 
