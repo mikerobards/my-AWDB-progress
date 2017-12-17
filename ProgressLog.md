@@ -70,6 +70,25 @@
 
 **Link(s) to work**: [none](#)
 
+### Day 10 & 11: December 14 & 15, 2017 
+
+**Today's Progress**: Started Section 6: Async Foundations.
+
+**Thoughts**: Learning some CS foundations regarding asynchronous JS stuff. Not terribly exciting. Did an exercise where Tim asked us to write out a function that would perform what the findIndex function does. I got close. Then an exercise to write a countDown timer function using setInterval and clearInterval. I got it, but not perfectly. Learned clearInterval needs a variable passed in it. 
+
+**Link(s) to work**: [none](#)
+
+### Day 12: December 16, 2017 
+
+**Today's Progress**: Finished Section 6: Async Foundations. Started Section 7: AJAX Part 1: XHR and Fetch
+
+**Thoughts**: Finally to some practical coding! XHR is crap, but now I'm familiar with it. And lord knows I need a better understanding of AJAX!  
+
+**Link(s) to work**: [none](#)
+
+
+
+
 
 
 
