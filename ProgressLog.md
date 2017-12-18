@@ -86,6 +86,16 @@
 
 **Link(s) to work**: [none](#)
 
+### Day 13: December 17, 2017 
+
+**Today's Progress**: Still working on Section 7: AJAX Part 1: XHR and Fetch.
+
+**Thoughts**: Got through Bitcoin price challenge. Nailed it! Got all bonus requirements working! Not the prettiest, but functional! I am really understanding AJAX now! Although it is XML (boo). And finally a link! Although to Codepen (boo).  
+
+**Link(s) to work**: [My AJAX Bitcoin](https://codepen.io/mikerobards/full/NXxqeE/)
+
+
+
 
 
 
