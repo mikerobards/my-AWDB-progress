@@ -104,9 +104,9 @@
 
 ### Day 15: December 19, 2017 
 
-**Today's Progress**: Still working on Section 7: AJAX Part 1: XHR and Fetch.
+**Today's Progress**: Finished Section 7: AJAX Part 1: XHR and Fetch.
 
-**Thoughts**: Finished Fetch challenge to generate random user. Even got the suggested refactoring to work! Once I got over global variables! 
+**Thoughts**: Finished Fetch challenge to generate random user. Even got the suggested refactoring to work! Once I got over global variables! IE does not support Fetch?!?! 
 
 **Link(s) to work**: [My Fetch User Generator](https://codepen.io/mikerobards/full/goPNJy/)
 
