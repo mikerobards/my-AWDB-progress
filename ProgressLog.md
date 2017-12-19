@@ -94,6 +94,23 @@
 
 **Link(s) to work**: [My AJAX Bitcoin](https://codepen.io/mikerobards/full/NXxqeE/)
 
+### Day 14: December 18, 2017 
+
+**Today's Progress**: Still working on Section 7: AJAX Part 1: XHR and Fetch.
+
+**Thoughts**: Started learning about Fetch. Meh. Started Fetch challenge to generate random user.
+
+**Link(s) to work**: [none](#)
+
+### Day 15: December 19, 2017 
+
+**Today's Progress**: Still working on Section 7: AJAX Part 1: XHR and Fetch.
+
+**Thoughts**: Finished Fetch challenge to generate random user. Even got the suggested refactoring to work! Once I got over global variables! 
+
+**Link(s) to work**: [My Fetch User Generator](https://codepen.io/mikerobards/full/goPNJy/)
+
+
 
 
 
