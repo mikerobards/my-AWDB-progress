@@ -118,6 +118,15 @@
 
 **Link(s) to work**: [My Ron Swanson Quote Generator](https://codepen.io/mikerobards/full/dJXGQa/)
 
+### Day 17: December 21, 2017 
+
+**Today's Progress**: Finished Section 9: Testing with Jasmine.
+
+**Thoughts**: Unit testing with Jasmine. Not much hands on. Some relatively easy quizes. I probably need to practice some unit testing on my own. But preferrably with .NET.
+
+**Link(s) to work**: [none](#)
+
+
 
 
 
