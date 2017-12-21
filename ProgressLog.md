@@ -110,6 +110,16 @@
 
 **Link(s) to work**: [My Fetch User Generator](https://codepen.io/mikerobards/full/goPNJy/)
 
+### Day 16: December 20, 2017 
+
+**Today's Progress**: Finished Section 8: AJAX Part 2: jQuery and Axios.
+
+**Thoughts**: Nailed the AJAX 4-way exercise! Axios is cool, but I think jQuery is the most prevalent. Axios is cool though.
+
+**Link(s) to work**: [My Ron Swanson Quote Generator](https://codepen.io/mikerobards/full/dJXGQa/)
+
+
+
 
 
 
