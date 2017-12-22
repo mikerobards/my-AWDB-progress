@@ -120,9 +120,9 @@
 
 ### Day 17: December 21, 2017 
 
-**Today's Progress**: Finished Section 9: Testing with Jasmine.
+**Today's Progress**: Finished Section 9: Testing with Jasmine. Started Section 10: Advanced Array Methods.
 
-**Thoughts**: Unit testing with Jasmine. Not much hands on. Some relatively easy quizes. I probably need to practice some unit testing on my own. But preferrably with .NET.
+**Thoughts**: Unit testing with Jasmine. Not much hands on. Some relatively easy quizes. I probably need to practice some unit testing on my own. But preferrably with .NET. Finished forEach section. Elie has us doing coding challenges a la FCC. It's good. I got them all working! More of this to come in this section. Ok whatever more JS!
 
 **Link(s) to work**: [none](#)
 
