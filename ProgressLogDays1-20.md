@@ -124,7 +124,7 @@
 
 **Thoughts**: Unit testing with Jasmine. Not much hands on. Some relatively easy quizes. I probably need to practice some unit testing on my own. But preferrably with .NET. Finished forEach section. Elie has us doing coding challenges a la FCC. It's good. I got them all working! More of this to come in this section. Ok whatever more JS!
 
-**Link(s) to work**: [none](#)
+**Link(s) to work**: [forEach Challenges](https://github.com/mikerobards/my-AWDB-progress/blob/master/forEachElie.js)
 
 
 
