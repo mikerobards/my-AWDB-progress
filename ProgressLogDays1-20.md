@@ -126,6 +126,14 @@
 
 **Link(s) to work**: [forEach Challenges](https://github.com/mikerobards/my-AWDB-progress/blob/master/forEachElie.js)
 
+### Day 18-20: December 21-23, 2017 
+
+**Today's Progress**: Finished Section 10: Advanced Array Methods.
+
+**Thoughts**: Elie going deep in array methods. After each one (almost), he had coding challenges. Some were easy, some took a while. I got them all except for the last reduce cuz I gotta do house stuff before Xmas. But hey I learned a lot! Def more comfortable with these than I was before.
+
+**Link(s) to work**: [none](#)
+
 
 
 
