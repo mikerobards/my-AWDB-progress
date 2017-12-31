@@ -6,4 +6,10 @@
 
 **Link(s) to work**: [none](#)
 
+### Day 24: December 31, 2017 
 
+**Today's Progress**: Working on Section 11: Closures and the Keyword 'this'
+
+**Thoughts**: On keyword 'this'. Tricky, but I'm getting it.
+
+**Link(s) to work**: [none](#)
