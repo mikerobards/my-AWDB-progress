@@ -13,3 +13,11 @@
 **Thoughts**: On keyword 'this'. Tricky, but I'm getting it.
 
 **Link(s) to work**: [none](#)
+
+### Day 25: January 2, 2017 
+
+**Today's Progress**: Working on Section 11: Closures and the Keyword 'this'
+
+**Thoughts**: Up to coding exercise. I feel pretty good about call, apply, bind. We'll see how the coding exercises go. 
+
+**Link(s) to work**: [none](#)
