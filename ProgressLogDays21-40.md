@@ -21,3 +21,11 @@
 **Thoughts**: Up to coding exercise. I feel pretty good about call, apply, bind. We'll see how the coding exercises go. 
 
 **Link(s) to work**: [none](#)
+
+### Day 26: January 3, 2017 
+
+**Today's Progress**: Working on Section 11: Closures and the Keyword 'this'
+
+**Thoughts**: Working on CAB exercise. Tough! Got first two!
+
+**Link(s) to work**: [none](#)
