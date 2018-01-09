@@ -45,3 +45,11 @@
 **Thoughts**: Constructors. OOP in JS. Yep. Dunder proto. I'm getting it.
 
 **Link(s) to work** [Constructor Challenge](https://github.com/mikerobards/100-days-of-code/blob/master/ConstructorExercise.js)
+
+### Days 29-30: January 8-9, 2017
+
+**Today's Progress**: Finished Section 12: Object Oriented Programming with JavaScript
+
+**Thoughts**: OOP, prototypes, inheritance. I can see where C# has built in OOP. But hey now I can mimic it in JS!
+
+**Link(s) to work** [Inheritance Exercise](https://github.com/mikerobards/100-days-of-code/blob/master/InheritanceExercise.js)
